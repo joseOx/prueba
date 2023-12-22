@@ -5,19 +5,20 @@ test: images/test
 
 # Classes (donde se identifica los distintos tipos de objetos)
 names:
-  0: white-rook
-  1: black-bishop
-  2: black-king
-  3: black-knight
-  4: black-pawn
-  5: black-queen
-  6: black-rook
-  7: white-bishop
-  8: white-king
-  9: white-knight
-  10: white-pawn
-  11: white-queen
-  12: chess-pieces
+  0: chess-pieces
+  1: white-rook
+  2: black-bishop
+  3: black-king
+  4: black-knight
+  5: black-pawn
+  6: black-queen
+  7: black-rook
+  8: white-bishop
+  9: white-king
+  10: white-knight
+  11: white-knight
+  12: white-pawn
+  13: white-queen
 
 #   'chess-pieces', 'bishop', 'black-bishop', 'black-king', 'black-knight', 'black-pawn', 'black-queen', 'black-rook', 'white-bishop', 
 # 'white-king', 'white-knight', 'white-pawn', 'white-queen', 'white-rook'
